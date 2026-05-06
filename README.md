@@ -25,19 +25,6 @@
 
 ---
 
-Tech
-
-<div style="display:flex;gap:10px;flex-wrap:wrap;">
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-</div>
-
-<br />
-<br />
-
----
-
 # Skills
 
 <br />
