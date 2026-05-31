@@ -8,7 +8,7 @@
 
 - Kafka
 - CI/CD
-- 
+
 ---
 
 # Skills
