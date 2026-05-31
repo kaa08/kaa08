@@ -1,35 +1,21 @@
 # 가한솔 / Backend Engineer
 
-<br />
-
-서비스의 병목을 분석하고 구조적으로 개선하는 백엔드 개발자입니다.
-
-<br />
-<br />
+서비스 병목을 분석하고 구조적으로 개선하는 것에 관심이 있는 백엔드 개발자입니다.
 
 ---
 
-# My Values
+## Currently Learning
 
-<br />
-
-
----
-
-# How I Work
-
-<br />
-
-<br />
-<br />
-
+- Kafka
+- CI/CD
+- 
 ---
 
 # Skills
 
 <br />
 
-### I use it often.
+### Core
 
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
@@ -43,7 +29,7 @@
 
 <br />
 
-### I've used it before.
+### Experienced
 
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
